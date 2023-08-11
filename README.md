@@ -17,7 +17,10 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+...and then go get a coffee. This execution takes *quite* a while.
 
 # Getting started with LLM learning
 Open `app.py` in your favourite editor, and follow along if you want to learn about interacting with LLMs.
-If you're interested in the websocket part of the interaction, take a look at `templates/index.html`. It is similarly not intended as an example of best practice, but as a learning experience.
+
+# Notes about data
+The data in this repo is a tiny slice of the open part of the CSPS' course catalogue used for illustration purposes only. The real catalogue is much larger, and changes with time; this repository is not kept in sync with the live source.
